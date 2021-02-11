@@ -7,3 +7,9 @@ Vehicle length and ground clearance are likely to cause a non-random amount of v
 The slope of the linear model is not considered to be zero. This is the case because the p-value is less than the signifcance value of 0.05 at 5.35e-11. 
 
 The Multiple R-Squared is 0.7149. This shows that the linear model can effectively predict the mpg of MechaCar prototypes at 71.49%. 
+
+## Summary Statistics of Suspension Coils
+
+If we look at all lots as a whole, the suspension coils have a variance of around 62. This is within the manufacturing specifications. 
+
+If we look at each lot seperately then the only Lot 1 and Lot 2 are within the specification. Lot 3 has a variance of roughly 170, which is over the manufacturing specification. 
