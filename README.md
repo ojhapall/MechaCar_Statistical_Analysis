@@ -13,3 +13,8 @@ The Multiple R-Squared is 0.7149. This shows that the linear model can effective
 If we look at all lots as a whole, the suspension coils have a variance of around 62. This is within the manufacturing specifications. 
 
 If we look at each lot seperately then the only Lot 1 and Lot 2 are within the specification. Lot 3 has a variance of roughly 170, which is over the manufacturing specification. 
+
+## T-Tests of Suspension Coils 
+
+If we look at all lots, the manufacturing lots are satistifically signficant.This shows that the suspension coils PSI in all lots are satistically similar to population mean. However, if we look at each lot individually only Lot 1 and 2 are satisfically significant. This shows that the suspension coils PSI in this lot are satistically similar to population mean. Lot 3 has a p-value below 0.05 at 0.04168 which shows that the Suspension Coils PSI are statistically difference from the mean. 
+
